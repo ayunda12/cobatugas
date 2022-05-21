@@ -1,7 +1,6 @@
-<h1>
-    Login
-</h1>
-
+<h2>
+Tes Login
+</h2>
 <p>
-    Github Workflow
+Github Workflow
 </p>
